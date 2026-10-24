@@ -1,0 +1,4 @@
+ticket_id,issue_summary,resolution
+T001,"I am unable to access the company GitHub repository.","Reach out to DevOps lead to get added to the organization with your GitHub username."
+T002,"How do I configure my local environment for the Python project?","Clone the repository, create a virtual environment using `python -m venv venv`, activate it, and run `pip install -r requirements.txt`."
+T003,"My mentor hasn't reviewed my pull request yet.","Ping your mentor directly on Slack after 24 hours or bring it up during the daily standup."
